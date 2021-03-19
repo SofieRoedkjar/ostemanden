@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #3E4947;
+		background: #0c0e0e;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
 		color: rgba(0,0,0,.6);
@@ -214,7 +214,7 @@
 	ul.contact
 	{
 		margin: 0;
-		padding: 2em 0em 0em 0em;
+		padding: 2em 0em 3em 0em;
 		list-style: none;
 	}
 
@@ -258,7 +258,7 @@
 		display: inline-block;
 		margin-top: 2em;
 		padding: 0.8em 2em;
-		background: #2D1E25;
+		background: #1B1216;
 		border-radius: 50%;
 		line-height: 1.8em;
 		letter-spacing: 1px;
@@ -312,7 +312,7 @@
 	{
 		overflow: hidden;
 		padding: 2em 0em;
-		background: #2F1E28;
+		background: #1B1216;
 	}
 
 	#header
@@ -452,7 +452,7 @@
 		width: 1000px;
 		padding: 2em 100px 0em 100px;
 		text-align: center;
-		color: #7D6774;
+		color: #cfc5cb;
 	}
 
 	#welcome .content
@@ -462,13 +462,13 @@
 
 	#welcome .title h2
 	{
-		color: #C6C2C4;
+		color: #cfc5cb;
 	}
 
 	#welcome a,
 	#welcome strong
 	{
-		color: #C6C2C4;
+		color: #cfc5cb;
 	}
 
 /*********************************************************************************/
@@ -478,7 +478,7 @@
 	#page-wrapper
 	{
 		overflow: hidden;
-		background: #2F1E28;
+		background: #1B1216;
 		padding: 3em 0em 6em 0em;
 		text-align: center;
 	}
@@ -531,7 +531,7 @@
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 1em 0em;
 		border-top: 20px solid rgba(255,255,255,0.08);
 		text-align: center;
 	}
